@@ -111,20 +111,20 @@ const Login = () => {
                     textShadow: '1px 1px 2px rgba(0, 0, 0, 0.3)', // Optional shadow effect
                   }}
                 >
-                  AI_Evalu8
+                  ProctorAI
                 </Typography>
               </Box>
               <AuthLogin
                 formik={formik}
                 subtext={
                   <Typography variant="subtitle1" textAlign="center" color="textSecondary" mb={1}>
-                    CONDUCT SECURE ONLINE EXAMS NOW
+                    AI-Powered Secure Online Exam Platform
                   </Typography>
                 }
                 subtitle={
                   <Stack direction="row" spacing={1} justifyContent="center" mt={3}>
                     <Typography color="textSecondary" variant="h6" fontWeight="500">
-                      New to Modernize?
+                      New to ProctorAI?
                     </Typography>
                     <Typography
                       component={Link}

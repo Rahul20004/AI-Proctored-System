@@ -117,7 +117,7 @@ const Register = () => {
                     textShadow: '1px 1px 2px rgba(0, 0, 0, 0.3)', // Optional shadow effect
                   }}
                 >
-                  AI_Evalu8
+                  ProctorAI
                 </Typography>
               </Box>
               <AuthRegister
@@ -125,7 +125,7 @@ const Register = () => {
                 onSubmit={handleSubmit}
                 subtext={
                   <Typography variant="subtitle1" textAlign="center" color="textSecondary" mb={1}>
-                    CONDUCT SECURE ONLINE EXAMS NOW
+                    Secure AI-Based Online Examination System
                   </Typography>
                 }
                 subtitle={
